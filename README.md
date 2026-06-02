@@ -1,5 +1,4 @@
-# Hi there! I'm Kevin Nugraha Santika Permana <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="28px">
-
+# Hi there! I'm Kevin Nugraha Santika Permana 👋🏼
 ### 🚀 Engineering Intelligent Solutions through Data, AI, and Design
 
 An Informatics Engineering graduate (GPA 3.85/4.00) from Institut Teknologi PLN, specializing in Data Science, Machine Learning, and UI/UX Design. Equipped with enterprise-level internship experience from PT Indonesia Comnets Plus (PLN Icon Plus) and the Ministry of Finance of the Republic of Indonesia. Proven track record in training advanced Transformer-based NLP models, designing developer-ready dashboards, and managing data pipelines.
