@@ -105,10 +105,10 @@ Compared transformer-based models to classify airline customer reviews and evalu
 **kevinngr04@gmail.com**
 
 💼 **LinkedIn**  
-https://linkedin.com/in/kevin-nugraha-santika-permana
+**https://linkedin.com/in/kevin-nugraha-santika-permana**
 
 🌐 **Portfolio**  
-https://bit.ly/PortfolioKevinNugraha
+**https://bit.ly/PortfolioKevinNugraha**
 
 ---
 
